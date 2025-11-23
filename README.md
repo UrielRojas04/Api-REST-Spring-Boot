@@ -34,8 +34,8 @@ Swagger UI:
 👉 **http://localhost:8080/swagger-ui/index.html**
 
 
-![Vista Swagger](./screenshots/img.png)
-![Vista Swagger](./screenshots/img_1.png)
+![Vista Swagger](screenshots/img.png)
+![Vista Swagger](screenshots/img_1.png)
 
 
 
@@ -87,39 +87,39 @@ Acceso:
 
 **POST (Crear un producto)**
 
-![Post](./screenshots/img_2.png)
+![Post](screenshots/img_2.png)
 
 **GET (Listar productos)**
 
-![Post](./screenshots/img_3.png)
+![Post](screenshots/img_3.png)
 
 **GET (Filtrar por categoría)**
 
-![Post](./screenshots/img_4.png)
+![Post](screenshots/img_4.png)
 
 **PUT (Actualizacion completa)**
 
-![Post](./screenshots/img_5.png)
+![Post](screenshots/img_5.png)
 
 **PATCH (Actualizacion stock de 20 a 0)**
 
-![Post](./screenshots/img_6.png)
+![Post](screenshots/img_6.png)
 
 **DELETE (Eliminacion 204)**
 
-![Post](./screenshots/img_7.png)
+![Post](screenshots/img_7.png)
 
 **GET (Error 404 producto inexistente)**
 
-![Post](./screenshots/img_8.png)
+![Post](screenshots/img_8.png)
 
 **POST (Error 400 validaciones)**
 
-![Post](./screenshots/img_9.png)
+![Post](screenshots/img_9.png)
 
 **H2 (Datos persistidos)**
 
-![Post](./screenshots/img_10.png)
+![Post](screenshots/img_10.png)
 
 ---
 
