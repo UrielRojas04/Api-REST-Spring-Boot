@@ -87,39 +87,39 @@ Acceso:
 
 **POST (Crear un producto)**
 
-![Post](screenshots/img_2.png)
+![](screenshots/img_2.png)
 
 **GET (Listar productos)**
 
-![Post](screenshots/img_3.png)
+![](screenshots/img_3.png)
 
 **GET (Filtrar por categoría)**
 
-![Post](screenshots/img_4.png)
+![](screenshots/img_4.png)
 
 **PUT (Actualizacion completa)**
 
-![Post](screenshots/img_5.png)
+![](screenshots/img_5.png)
 
 **PATCH (Actualizacion stock de 20 a 0)**
 
-![Post](screenshots/img_6.png)
+![](screenshots/img_6.png)
 
 **DELETE (Eliminacion 204)**
 
-![Post](screenshots/img_7.png)
+![](screenshots/img_7.png)
 
 **GET (Error 404 producto inexistente)**
 
-![Post](screenshots/img_8.png)
+![](screenshots/img_8.png)
 
 **POST (Error 400 validaciones)**
 
-![Post](screenshots/img_9.png)
+![](screenshots/img_9.png)
 
 **H2 (Datos persistidos)**
 
-![Post](screenshots/img_10.png)
+![](screenshots/img_10.png)
 
 ---
 
